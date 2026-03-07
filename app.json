@@ -3,12 +3,9 @@
     "name": "BeautyApp",
     "slug": "beauty-app",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.tenshiik.beautyapp"
+      "bundleIdentifier": "com.tenshiik.beautyapp",
+      "supportsTablet": true
     },
     "extra": {
       "eas": {
