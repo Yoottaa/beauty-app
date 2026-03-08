@@ -3,11 +3,20 @@
     "name": "BeautyApp",
     "slug": "beautyapp",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
     "ios": {
-      "bundleIdentifier": "com.tenshik.beautyapp"
+      "bundleIdentifier": "com.tenshik.beautyapp",
+      "supportsTablet": true
     },
     "android": {
       "package": "com.tenshik.beautyapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7209930e-549b-466d-961a-7965774e5039"
+      }
     }
   }
 }
