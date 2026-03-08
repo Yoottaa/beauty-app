@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "BeautyApp",
-    "slug": "beaut-yapp",
+    "slug": "beauty-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,7 +15,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "7209930e-549b-466d-961a-7965774e5039"
+        "projectId": "8b92fccf-3f02-4cca-8017-0eb6ec302979"
       }
     }
   }
