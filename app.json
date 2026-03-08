@@ -1,16 +1,13 @@
 {
   "expo": {
     "name": "BeautyApp",
-    "slug": "beauty-app",
+    "slug": "beautyapp",
     "version": "1.0.0",
     "ios": {
-      "bundleIdentifier": "com.tenshiik.beautyapp",
-      "supportsTablet": true
+      "bundleIdentifier": "com.tenshik.beautyapp"
     },
-    "extra": {
-      "eas": {
-        "projectId": "8b92fccf-3f02-4cca-8017-0eb6ec302979"
-      }
+    "android": {
+      "package": "com.tenshik.beautyapp"
     }
   }
 }
